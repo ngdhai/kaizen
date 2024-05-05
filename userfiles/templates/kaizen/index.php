@@ -3144,6 +3144,7 @@
       text-align: center;
     }
   </style>
+  <script type="text/javascript" defer="" src="https://w.ladicdn.com/v2/source/location.vn.min.js?v=1700030229605"></script>
   <style>
     @-webkit-keyframes swal2-show {
       0% {
@@ -5051,6 +5052,12 @@
 
 <body class=""><svg xmlns="http://www.w3.org/2000/svg" style="width: 0px; height: 0px; position: absolute; overflow: hidden; display: none;">
     <symbol id="shape_GGzVCGRlVA" viewBox="0 0 100 100">
+      <!-- <metadata>
+        <sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+          <slices></slices>
+          <slicesourcebounds width="1445.9" height="1445.9" x="2.9" y="-1447.6" bottomleftorigin="true"></slicesourcebounds>
+        </sfw>
+      </metadata> -->
       <path d="M96.1,58.6V44.2c0-3.9-3.1-7-7-7l-9.3-0.8L71.5,24c-0.1-0.1-0.2-0.3-0.3-0.4c-1.3-1.7-3.3-2.9-5.7-2.9h-3.5h-27  c-3.9,0-7,3.1-7,7v31c-1.7,0.4-3,2-3,3.9v5c0,2.3,1.8,4,4,4h5.7c1.3,4.5,5.4,7.7,10.3,7.7c4.9,0,9-3.3,10.3-7.7h6.7h8.1  c1.3,4.5,5.4,7.7,10.3,7.7s9-3.3,10.3-7.7h4.9c2.3,0,4-1.8,4-4v-5C99.6,60.5,98,58.8,96.1,58.6z M44.9,73.9c-3,0-5.4-2.5-5.4-5.4  c0-2.9,2.5-5.4,5.4-5.4c3,0,5.4,2.5,5.4,5.4C50.3,71.5,47.9,73.9,44.9,73.9z M80.4,73.9c-3,0-5.4-2.5-5.4-5.4c0-2.9,2.5-5.4,5.4-5.4  c3,0,5.4,2.5,5.4,5.4C85.7,71.5,83.3,73.9,80.4,73.9z M19.9,35.1H3.1c-1.5,0-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7h16.8  c1.5,0,2.7,1.2,2.7,2.7C22.6,33.9,21.4,35.1,19.9,35.1z M22.6,42.1c0,1.5-1.2,2.7-2.7,2.7h-12c-1.5,0-2.7-1.2-2.7-2.7  c0-1.5,1.2-2.7,2.7-2.7h12C21.4,39.4,22.6,40.6,22.6,42.1z M22.6,51.9c0,1.5-1.2,2.7-2.7,2.7h-7.5c-1.5,0-2.7-1.2-2.7-2.7  c0-1.5,1.2-2.7,2.7-2.7h7.5C21.4,49.2,22.6,50.4,22.6,51.9z"></path>
     </symbol>
     <symbol id="shape_caGGPlbbKg" viewBox="0 0 1408 1896.0833">
@@ -5115,6 +5122,14 @@
             <div id="BUTTON_TEXT2" class="ladi-element ladi-button-headline">
               <p class="ladi-headline ladi-transition">Mua ngay</p>
             </div>
+          </div>
+        </div>
+        <div id="NOTIFY1" class="ladi-element ladi-hidden">
+          <div class="ladi-notify ladi-hidden">
+            <div class="ladi-notify-image"><img src="https://w.ladicdn.com/source/notify.svg?v=1.0"></div>
+            <div class="ladi-notify-title">Nội dung cột [Title]</div>
+            <div class="ladi-notify-content">Nội dung cột [Content]</div>
+            <div class="ladi-notify-time">Nội dung cột [Time]</div>
           </div>
         </div>
       </div>
@@ -6197,7 +6212,6 @@
           return;
         }
         window.LadiPageApp = window.LadiPageApp || new window.LadiPageAppV2();
-        window.LadiPageScript.runtime.is_mobile_only = true;
         window.LadiPageScript.runtime.convert_replace_str = true;
         window.LadiPageScript.runtime.desktop_width = 960;
         window.LadiPageScript.runtime.mobile_width = 420;
