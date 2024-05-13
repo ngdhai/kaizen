@@ -1,105 +1,11 @@
-<?php include THIS_TEMPLATE_DIR. "header.php"; ?>
+<?php include THIS_TEMPLATE_DIR . "header.php"; ?>
 
 <body class="edit" rel="content" field="content">
-  <div class="kaizen-wraper edit">
-    <module type="pictures" template="default"/>
-    
-    <div class="kz-container">
-      <h3 class="kaizen-headline kaizen-transition">
-        Giấy ăn, khăn giấy TopTop siêu cute mềm mịn thùng 30 gói 4 lớp
-        dai, thấm hút tốt<br>
-      </h3>
-    </div>
-    <div class="kz-container">
-      <div class="kz-group">
-        <div class="kaizen-shape kaizen-animation">
-          <div class="kaizen-box kaizen-transition"></div>
-          <div class="cicle">
+  <div class="kaizen-wraper">
+    <module type="pictures" template="default" />
+    <module type="layouts" template="kz-title" />
+    <module type="layouts" template="kz-shape-title" />
 
-          </div>
-          <div class="kz-icon">
-            <svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-              xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg"
-              xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100"
-              style="enable-background: new 0 0 100 100" xml:space="preserve" preserveAspectRatio="none" width="100%"
-              height="100%" class="" fill="#FFFFFF">
-              <switch>
-                <foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1"
-                  height="1"></foreignObject>
-                <g i:extraneous="self">
-                  <g>
-                    <path
-                      d="M42.3,72H47c0.5,0,0.9-0.4,0.9-0.9v-4.7c4.9-0.8,9-4.7,9.5-9.7c0.6-6.6-4.5-12.1-11-12.1h-3.5c-2.7,0-4.9-2.3-4.6-5.1     c0.2-2.4,2.4-4.1,4.8-4.1h4.1c1.5,0,2.8,1.1,3.1,2.5c0.1,0.4,0.5,0.7,0.9,0.7h4.7c0.5,0,1-0.4,0.9-1c-0.5-4.7-4.3-8.3-9-8.6v-4.6     c0-0.5-0.4-0.9-0.9-0.9h-4.6c-0.5,0-0.9,0.4-0.9,0.9V29c-5.7,0.8-10.1,6-9.5,12c0.6,5.7,5.7,9.9,11.5,9.9h3     c2.7,0,4.9,2.3,4.6,5.1c-0.2,2.4-2.4,4.1-4.8,4.1H42c-1.5,0-2.8-1.1-3.1-2.5c-0.1-0.4-0.5-0.7-0.9-0.7h-4.7c-0.5,0-1,0.4-0.9,1     c0.5,4.7,4.3,8.3,9,8.6v4.6C41.4,71.6,41.8,72,42.3,72z">
-                    </path>
-                    <path
-                      d="M44.6,82.5c-19.2,0-34.8-15.6-34.8-34.8s15.6-34.8,34.8-34.8s34.8,15.6,34.8,34.8c0,2.7-0.3,5.2-0.8,7.7     c0.4-0.1,0.8-0.1,1.2-0.1c2.1,0,4.2,0.3,6.2,0.9c0.6-2.7,0.8-5.6,0.8-8.5c0-23.2-18.9-42.1-42.1-42.1S2.5,24.5,2.5,47.7     s18.9,42.1,42.1,42.1c5.7,0,11.2-1.1,16.1-3.2c-1.1-2.1-1.9-4.5-2.2-7.1C54.3,81.4,49.6,82.5,44.6,82.5z">
-                    </path>
-                    <path
-                      d="M79.8,59C70,59,62,66.9,62,76.7c0,9.8,7.9,17.7,17.7,17.7c9.8,0,17.7-7.9,17.7-17.7C97.5,66.9,89.6,59,79.8,59z      M87.5,73.3l-8.1,9.6c-0.3,0.4-0.8,0.6-1.3,0.6c-0.5,0-1-0.2-1.3-0.6l-4.6-5.5c-0.6-0.7-0.5-1.8,0.2-2.5c0.7-0.6,1.8-0.5,2.5,0.2     l3.3,3.9l6.7-8c0.6-0.7,1.7-0.8,2.5-0.2C88,71.5,88.1,72.6,87.5,73.3z">
-                    </path>
-                  </g>
-                </g>
-              </switch>
-            </svg>
-          </div>
-        </div>
-        <div class="headline">
-          <h3>
-            Thanh toán dễ dàng - Xem hàng trước khi thanh toán
-            <br>
-          </h3>
-        </div>
-
-      </div>
-      <div class="kz-group">
-        <div class="kaizen-shape kaizen-animation">
-          <div class="kaizen-box kaizen-transition"></div>
-          <div class="cicle">
-
-          </div>
-          <div class="kz-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
-              y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"
-              preserveAspectRatio="none" width="100%" height="100%" class="" fill="#FFFFFF">
-              <path
-                d="M79.2,28.5c-1.3-1.2-1.8-3.1-1.1-4.7l0.6-1.5c1-2.3-0.3-4.9-2.7-5.6l-1.6-0.4c-1.7-0.5-2.9-2-3-3.8l-0.1-1.6  c-0.1-2.2-2-3.9-4.1-3.9c-0.2,0-0.5,0-0.7,0.1L65,7.3c-0.2,0-0.5,0.1-0.7,0.1c-1.5,0-2.9-0.8-3.6-2.2l-0.8-1.4  c-0.8-1.4-2.2-2.2-3.6-2.2c-0.8,0-1.7,0.2-2.4,0.8l-1.3,0.9c-0.7,0.5-1.6,0.8-2.4,0.8c-0.9,0-1.7-0.3-2.4-0.8l-1.3-1  c-0.7-0.5-1.6-0.8-2.4-0.8c-1.5,0-2.9,0.8-3.6,2.1l-0.8,1.4c-0.7,1.3-2.1,2.1-3.6,2.1c-0.2,0-0.5,0-0.7-0.1l-1.6-0.3  c-0.2,0-0.5-0.1-0.7-0.1c-2.2,0-4,1.7-4.1,3.9l-0.1,1.6c-0.1,1.8-1.3,3.3-3,3.8L24,16.6c-2.4,0.7-3.7,3.3-2.7,5.6l0.6,1.5  c0.7,1.6,0.2,3.5-1.1,4.7l-1.2,1.1c-1.9,1.6-1.9,4.6,0,6.2l1.2,1.1c1.3,1.2,1.8,3.1,1.1,4.7L21.2,43c-1,2.3,0.3,4.9,2.7,5.6l1.6,0.4  c1.7,0.5,2.9,2,3,3.8l0.1,1.6c0.1,2.2,2,3.9,4.1,3.9c0.2,0,0.5,0,0.7-0.1L35,58c0.2,0,0.5-0.1,0.7-0.1c1.5,0,2.9,0.8,3.6,2.2  l0.8,1.4c0.8,1.4,2.2,2.2,3.6,2.2c0.8,0,1.7-0.2,2.4-0.8l1.3-0.9c0.7-0.5,1.6-0.8,2.4-0.8c0.9,0,1.7,0.3,2.4,0.8l1.3,1  c0.7,0.5,1.6,0.8,2.4,0.8c1.5,0,2.9-0.8,3.6-2.1l0.8-1.4c0.7-1.3,2.1-2.1,3.6-2.1c0.2,0,0.5,0,0.7,0.1l1.6,0.3  c0.2,0,0.5,0.1,0.7,0.1c2.2,0,4-1.7,4.1-3.9l0.1-1.6c0.1-1.8,1.3-3.3,3-3.8l1.6-0.4c2.4-0.7,3.7-3.3,2.7-5.6l-0.6-1.5  c-0.7-1.6-0.2-3.5,1.1-4.7l1.2-1.1c1.9-1.6,1.9-4.6,0-6.2L79.2,28.5z M63.9,30.4l-6.4,5.2l1.9,7.9c0.3,1.2-0.6,2.1-1.6,2.1  c-0.3,0-0.6-0.1-0.9-0.3l-7-4.3L43,45.4c-0.3,0.2-0.6,0.3-0.9,0.3c-1,0-1.9-1-1.6-2.1l1.9-7.9l-6.3-5.2c-1.2-1-0.5-2.9,1-3l8.2-0.6  l3.1-7.6c0.3-0.7,0.9-1.1,1.6-1.1s1.3,0.4,1.6,1.1l3.1,7.6l8.2,0.6C64.4,27.5,65.1,29.4,63.9,30.4z M56.1,69.9  c1.3,0,2.6-0.3,3.8-0.8v28.3c0,0.9-1,1.3-1.7,0.8l-7.9-6.4c-0.2-0.2-0.6-0.2-0.9,0l-7.7,6.3c-0.7,0.6-1.7,0.1-1.7-0.8V69.2  c1.2,0.4,2.4,0.7,3.7,0.7c2.2,0,4.2-0.7,6-1.9l0.1-0.1L50,68C51.8,69.2,53.9,69.9,56.1,69.9z">
-              </path>
-            </svg>
-          </div>
-        </div>
-        <div class="headline">
-          <h3>
-            Thanh toán dễ dàng - Xem hàng trước khi thanh toán
-            <br>
-          </h3>
-        </div>
-
-      </div>
-      <div class="kz-group">
-        <div class="kaizen-shape kaizen-animation">
-          <div class="kaizen-box kaizen-transition"></div>
-          <div class="cicle">
-          </div>
-          <div class="kz-icon">
-            <svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-              xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg"
-              xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100"
-              enable-background="new 0 0 100 100" xml:space="preserve" preserveAspectRatio="none" width="100%"
-              height="100%" class="" fill="#FFFFFF">
-              <path
-                d="M96.1,58.6V44.2c0-3.9-3.1-7-7-7l-9.3-0.8L71.5,24c-0.1-0.1-0.2-0.3-0.3-0.4c-1.3-1.7-3.3-2.9-5.7-2.9h-3.5h-27  c-3.9,0-7,3.1-7,7v31c-1.7,0.4-3,2-3,3.9v5c0,2.3,1.8,4,4,4h5.7c1.3,4.5,5.4,7.7,10.3,7.7c4.9,0,9-3.3,10.3-7.7h6.7h8.1  c1.3,4.5,5.4,7.7,10.3,7.7s9-3.3,10.3-7.7h4.9c2.3,0,4-1.8,4-4v-5C99.6,60.5,98,58.8,96.1,58.6z M44.9,73.9c-3,0-5.4-2.5-5.4-5.4  c0-2.9,2.5-5.4,5.4-5.4c3,0,5.4,2.5,5.4,5.4C50.3,71.5,47.9,73.9,44.9,73.9z M80.4,73.9c-3,0-5.4-2.5-5.4-5.4c0-2.9,2.5-5.4,5.4-5.4  c3,0,5.4,2.5,5.4,5.4C85.7,71.5,83.3,73.9,80.4,73.9z M19.9,35.1H3.1c-1.5,0-2.7-1.2-2.7-2.7c0-1.5,1.2-2.7,2.7-2.7h16.8  c1.5,0,2.7,1.2,2.7,2.7C22.6,33.9,21.4,35.1,19.9,35.1z M22.6,42.1c0,1.5-1.2,2.7-2.7,2.7h-12c-1.5,0-2.7-1.2-2.7-2.7  c0-1.5,1.2-2.7,2.7-2.7h12C21.4,39.4,22.6,40.6,22.6,42.1z M22.6,51.9c0,1.5-1.2,2.7-2.7,2.7h-7.5c-1.5,0-2.7-1.2-2.7-2.7  c0-1.5,1.2-2.7,2.7-2.7h7.5C21.4,49.2,22.6,50.4,22.6,51.9z">
-              </path>
-            </svg>
-          </div>
-        </div>
-        <div class="headline">
-          <h3>
-            Thanh toán dễ dàng - Xem hàng trước khi thanh toán
-            <br>
-          </h3>
-        </div>
-      </div>
-    </div>
     <div class="kz-form" id="scroll-form">
       <h3 class="form-headline">
         Thông tin đặt hàng<br>
@@ -128,116 +34,19 @@
 
       </div>
     </div>
-    <div class="kz-container">
-      <div class="detail">
-        <h3 class="kaizen-headline">Thông tin sản phẩm</h3>
-
-        <div class="kaizen-list-paragraph">
-          <ul>
-            <li class="">
-              <span style="font-weight: bold">Đặc điểm: </span>Thâm thiện
-              với môi trường, thấm nước tốt
-            </li>
-            <li class="">
-              <span style="font-weight: bold">Ứng dụng: </span>Sử dụng trong
-              phòng ngủ, phòng bếp, phòng vệ sinh
-            </li>
-            <li class="">
-              <span style="font-weight: bold">Chất liêu:</span> Bột gỗ
-              nguyên chất 4 lớp
-            </li>
-            <li class="">Thương thiệu Toptop</li>
-            <li class="">
-              <span style="font-weight: bold">Sản phẩm 4K: </span>KHÔNG tẩy
-              trắng - KHÔNG chất bảo quan - KHÔNG hương liệu - KHÔNG ô nhiễm
-              môi trường.
-            </li>
-            <li class="">
-              Giấy có độ dai tự nhiên, thấm nước không rách, nát. Bề mặt
-              giấy mềm mịn, không hại da, không kích ứng.
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
+    <module type="layouts" template="kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
     </div>
-    <div class="kz-container">
-      <div class="detail">
-        <h3 class="kaizen-headline">MÔ TẢ THÙNG KHĂN GIẤY TIỆN LỢI DỄ DÀNG SỬ DỤNG Ở MỌI NƠI TRONG NHÀ</h3>
-
-        <div class="kaizen-list-paragraph">
-          <ul>
-            <li class="">
-              <span style="font-weight: bold">Số lượng: </span>30 gói - Mỗi gói 300 tờ/4 lớp/75 rút
-            </li>
-            <li class="">
-              <span style="font-weight: bold">Phân loại: </span> Xanh cảm *hứng - Hồng dịu êm - Tím tâm huyết
-            </li>
-            <li class="">
-              <span style="font-weight: bold">Kích thước bịch giấy:</span> 118*88*50mm
-            </li>
-            <li class="">
-              <span style="font-weight: bold">Kích thước tờ giấy: </span> 170*118mm
-            </li>
-          </ul>
-        </div>
-        <div class="kaizen-animation">
-          <div class="kaizen-button kaizen-transition">
-            <div class="kaizen-button-headline">
-              <p class="kaizen-form-headline">Mua ngay</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <module type="layouts" template="kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
     </div>
-    <div class="kz-container">
-      <div class="detail">
-        <h3 class="kaizen-headline">ĐÁNH GIÁ CỦA KHÁCH HÀNG</h3>
-        <div class="testimonial">
-          <div class="title">
-            <div class="point titile-blue pr-10">4.8/5</div>
-            <img class="pr-10"
-              src="https://w.ladicdn.com/s400x350/5c7362c6c417ab07e5196b05/sao-star-20231010094822-vteoa.png" alt="">
-            <div class="point">(15.5k) | Đã bán </div>
-            <div class="pl-5 point titile-blue">145k</div>
-          </div>
-          <div class="list-testimonial">
-            <div class="testimonial-item">
-              <div class="testimonial-img">
-                <img src="https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/nam-20230508100251-m6h0d.jpg" alt="">
-              </div>
-              <div class="content">
-                <h3 class="title">Dang Hai</h3>
-                <div class="description">
-                  Giấy dai, mẫu mã đẹp, đã mua đến lần thứ 3. Đặc biệt mua vào lúc giờ vàng giảm giá thì lại quá hời
-                </div>
-              </div>
-            </div>
-            <div class="kizen-line"></div>
-            <div class="testimonial-item">
-              <div class="testimonial-img">
-                <img src="https://w.ladicdn.com/s400x400/5c7362c6c417ab07e5196b05/nam-20230508100251-m6h0d.jpg" alt="">
-              </div>
-              <div class="content">
-                <h3 class="title">Dang Hai</h3>
-                <div class="description">
-                  Giấy dai, mẫu mã đẹp, đã mua đến lần thứ 3. Đặc biệt mua vào lúc giờ vàng giảm giá thì lại quá hời
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <module type="testimonials" template="default" />
     <div class="footer">
       <div class="logo">
         <img
@@ -245,13 +54,13 @@
           alt="">
       </div>
       <div class="info">
-        <div class="kz-container">
-          <div class="address">
+        <div class="kz-container edit" rel="content" field="footer">
+          <div class="address cloneable">
             <span style="font-weight: bold">Địa chỉ:</span>
             Address number,
             Street, District, City, District
           </div>
-          <div class="phone">
+          <div class="phone cloneable">
             <span style="font-weight: bold">Số điện thoại:</span>
             +84 10000000000
           </div>
@@ -599,7 +408,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content" field="content-chinh-sach-bao-mat">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH BẢO MẬT</h3>
               </div>
@@ -717,7 +526,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-van-chuyen">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH VẬN CHUYỂN</h3>
               </div>
@@ -770,7 +579,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-bao-hanh">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH BẢO HÀNH</h3>
               </div>
@@ -788,7 +597,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-ban-hang">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH BÁN HÀNG</h3>
               </div>
@@ -806,7 +615,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-thanh-toan">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH THANH TOÁN</h3>
               </div>
@@ -828,152 +637,203 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content" style="padding-bottom:120px">
+            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-va-dieu-kien">
               <div class="cs-content-title">
                 <h3>ĐIỀU KHOẢN VÀ ĐIỀU KIỆN</h3>
               </div>
 
-              <h4>ĐIỀU KIỆN VÀ ĐIỀU KHOẢN THÔNG BÁO QUAN TRỌNG XIN VUI LÒNG ĐỌC KỸ NHỮNG ĐIỀU KIỆN VÀ ĐIỀU KHOẢN VÀ CHÍNH
-              SÁCH BẢO MẬT THÔNG TIN TRƯỚC KHI SỬ DỤNG TRANG WEB NÀY.</h4>
+              <h4>ĐIỀU KIỆN VÀ ĐIỀU KHOẢN THÔNG BÁO QUAN TRỌNG XIN VUI LÒNG ĐỌC KỸ NHỮNG ĐIỀU KIỆN VÀ ĐIỀU KHOẢN VÀ
+                CHÍNH
+                SÁCH BẢO MẬT THÔNG TIN TRƯỚC KHI SỬ DỤNG TRANG WEB NÀY.</h4>
 
-              <p>Trang Web này thuộc sở hữu của Kaizen. Bằng cách sử dụng trang Web này, bạn đã đồng ý bị ràng buộc bởi các
-              Điều kiện & Điều khoản này. Nếu bạn không đồng ý với bất kỳ phần nào của các Điều kiện & Điều khoản này,
-              vui lòng không truy cập trang web này.</p>
+              <p>Trang Web này thuộc sở hữu của Kaizen. Bằng cách sử dụng trang Web này, bạn đã đồng ý bị ràng buộc bởi
+                các
+                Điều kiện & Điều khoản này. Nếu bạn không đồng ý với bất kỳ phần nào của các Điều kiện & Điều khoản này,
+                vui lòng không truy cập trang web này.</p>
 
               <h4>VIỆC SỬ DỤNG THÔNG TIN VÀ TÀI LIỆU</h4>
-              <p>Thông tin và tài liệu có trong các trang này - và các điều kiện, điều khoản và các mô tả xuất hiện trong
-              đó - là tài sản của Kaizen và có thể thay đổi. Không phải tất cả các sản phẩm và dịch vụ đều hiện diện ở
-              tất cả các khu vực địa lý. Quyền và điều kiện sử dụng của bạn đối với các sản phẩm và dịch vụ cụ thể sẽ
-              phụ thuộc vào quyết định và chấp thuận cuối cùng của Kaizen. Bạn không được sao chép, đăng, chuyển, tải
-              lên, tái xuất bản hoặc phân phối dưới bất kỳ hình thức nào đối với bất kỳ tài liệu nào từ trang Web này mà
-              không có sự chấp thuận trước bằng văn bản của Kaizen. Hình ảnh và đồ họa trên trang Web này có thể được
-              bảo hộ bằng quyền tác giả và không được sao chép hoặc sử dụng dưới bất kỳ hình thức nào mà không có sự
-              chấp thuận trước bằng văn bản của các chủ sở hữu liên quan. Việc sửa đổi bất kỳ tài liệu hoặc sử dụng tài
-              liệu cho bất kỳ mục đích nào khác sẽ là vi phạm quyền tác giả và các quyền sở hữu trí tuệ khác của Kaizen
-              và quyền tác giả và các quyền sở hữu trí tuệ của những chủ sở hữu tương ứng.</p>
+              <p>Thông tin và tài liệu có trong các trang này - và các điều kiện, điều khoản và các mô tả xuất hiện
+                trong
+                đó - là tài sản của Kaizen và có thể thay đổi. Không phải tất cả các sản phẩm và dịch vụ đều hiện diện ở
+                tất cả các khu vực địa lý. Quyền và điều kiện sử dụng của bạn đối với các sản phẩm và dịch vụ cụ thể sẽ
+                phụ thuộc vào quyết định và chấp thuận cuối cùng của Kaizen. Bạn không được sao chép, đăng, chuyển, tải
+                lên, tái xuất bản hoặc phân phối dưới bất kỳ hình thức nào đối với bất kỳ tài liệu nào từ trang Web này
+                mà
+                không có sự chấp thuận trước bằng văn bản của Kaizen. Hình ảnh và đồ họa trên trang Web này có thể được
+                bảo hộ bằng quyền tác giả và không được sao chép hoặc sử dụng dưới bất kỳ hình thức nào mà không có sự
+                chấp thuận trước bằng văn bản của các chủ sở hữu liên quan. Việc sửa đổi bất kỳ tài liệu hoặc sử dụng
+                tài
+                liệu cho bất kỳ mục đích nào khác sẽ là vi phạm quyền tác giả và các quyền sở hữu trí tuệ khác của
+                Kaizen
+                và quyền tác giả và các quyền sở hữu trí tuệ của những chủ sở hữu tương ứng.</p>
 
               <h4>1. VIỆC SỬ DỤNG TRANG WEB</h4>
-              <p>Bạn đồng ý sử dụng trang Web này theo các Điều kiện và Điều khoản và cho các mục đích hợp pháp. Bạn đồng ý
-              chịu trách nhiệm về mọi vấn đề phát sinh từ việc sử dụng trang Web này của bạn. Hơn nữa, bạn đồng ý: Không
-              được sử dụng trang Web này dưới bất kỳ hình thức nào mà có thể dẫn đến sự vi phạm pháp luật, quy định có
-              liên quan hoặc gây ra hoặc có thể gây ra hành vi xâm phạm bất kỳ quyền nào của bất kỳ bên thứ ba nào;
-              Không được truyền tải, đăng tải hoặc phổ biến bất kỳ thông tin nào trên hoặc thông qua trang Web này mà có
-              nội dung gây hại, phỉ báng, khiêu dâm, bất hợp pháp hoặc tạo ra trách nhiệm pháp lý cho Kaizen;
-              Không được can thiệp hoặc cố gắng can thiệp vào hoạt động hoặc chức năng của trang Web này; và Không được
-              thực hiện hoặc cố gắng thực hiện việc truy cập trái phép, bằng bất kỳ phương thức nào, đến bất kỳ hệ thống
-              nào thuộc sở hữu của Kaizen. Nếu Kaizen (theo đánh giá chủ quan) tin rằng bạn vi phạm, hoặc sẽ vi phạm bất
-              kỳ Điều kiện và Điều khoản nào, Kaizen bảo lưu quyền từ chối cho bạn truy cập vào trang Web này mà không
-              cần nêu ra bất kỳ lý do gì và/hoặc không cần gửi thông báo đến bạn.</p>
+              <p>Bạn đồng ý sử dụng trang Web này theo các Điều kiện và Điều khoản và cho các mục đích hợp pháp. Bạn
+                đồng ý
+                chịu trách nhiệm về mọi vấn đề phát sinh từ việc sử dụng trang Web này của bạn. Hơn nữa, bạn đồng ý:
+                Không
+                được sử dụng trang Web này dưới bất kỳ hình thức nào mà có thể dẫn đến sự vi phạm pháp luật, quy định có
+                liên quan hoặc gây ra hoặc có thể gây ra hành vi xâm phạm bất kỳ quyền nào của bất kỳ bên thứ ba nào;
+                Không được truyền tải, đăng tải hoặc phổ biến bất kỳ thông tin nào trên hoặc thông qua trang Web này mà
+                có
+                nội dung gây hại, phỉ báng, khiêu dâm, bất hợp pháp hoặc tạo ra trách nhiệm pháp lý cho Kaizen;
+                Không được can thiệp hoặc cố gắng can thiệp vào hoạt động hoặc chức năng của trang Web này; và Không
+                được
+                thực hiện hoặc cố gắng thực hiện việc truy cập trái phép, bằng bất kỳ phương thức nào, đến bất kỳ hệ
+                thống
+                nào thuộc sở hữu của Kaizen. Nếu Kaizen (theo đánh giá chủ quan) tin rằng bạn vi phạm, hoặc sẽ vi phạm
+                bất
+                kỳ Điều kiện và Điều khoản nào, Kaizen bảo lưu quyền từ chối cho bạn truy cập vào trang Web này mà không
+                cần nêu ra bất kỳ lý do gì và/hoặc không cần gửi thông báo đến bạn.</p>
 
               <h4>2. TỪ CHỐI BẢO ĐẢM</h4>
               <p>Thông tin trong trang Web này, bao gồm tất cả các ký tự, tên, ảnh, hình ảnh, đồ hoạ, biểu trưng, biểu
-              tượng, liên kết và các mục khác được cung cấp dưới dạng "nguyên trạng". Kaizen không bảo đảm, tuyên bố
-              hoặc cam kết bằng bất cứ hình thức nào về tính chính xác, đầy đủ, thích hợp, hoàn chỉnh hoặc phù hợp của
-              thông tin đó và theo đây từ chối một cách rõ ràng mọi trách nhiệm pháp lý đối với những sai sót hoặc thiếu
-              sót trong các thông tin này. Bạn phải luôn xác minh những thông tin đó trước khi có bất kỳ hành động nào
-              dựa trên các thông tin đó. Bạn không nên dựa vào bất cứ điều gì trong những thông tin này để đưa bất kì
-              quyết định đầu tư nào của mình. Không có bất kỳ bảo đảm hoặc tuyên bố dưới bất kỳ hình thức nào, dù là rõ
-              ràng, ngụ ý hay theo luật định, bao gồm nhưng không giới hạn sự bảo đảm hoặc tuyên bố về khả năng thương
-              mại, tính phù hợp cho một mục đích cụ thể nào, sự không vi phạm và quyền sở hữu, được đưa ra bởi Kaizen
-              đối với bất kỳ thông tin nào trên các trang này và bất kỳ bảo đảm hoặc tuyên bố nào như vậy theo đây sẽ
-              được loại trừ rõ ràng. Kaizen cũng không bảo đảm rằng trang web này và các trang thuộc trang web này hoặc
-              máy chủ nơi chứa đựng các trang này không có virus máy tính hoặc các mã, chương trình, ngôn ngữ lập trình
-              độc hại hoặc phá hoại hoặc các yếu tố tương tự. Kaizen cũng không bảo đảm cho các vấn đề về truy cập nhanh
-              chóp, an toàn, hoàn chỉnh, không có lỗi hoặc không bị gián đoạn trong khi truy cập vào tất cả các nội dung
-              trên trang Web này.</p>
+                tượng, liên kết và các mục khác được cung cấp dưới dạng "nguyên trạng". Kaizen không bảo đảm, tuyên bố
+                hoặc cam kết bằng bất cứ hình thức nào về tính chính xác, đầy đủ, thích hợp, hoàn chỉnh hoặc phù hợp của
+                thông tin đó và theo đây từ chối một cách rõ ràng mọi trách nhiệm pháp lý đối với những sai sót hoặc
+                thiếu
+                sót trong các thông tin này. Bạn phải luôn xác minh những thông tin đó trước khi có bất kỳ hành động nào
+                dựa trên các thông tin đó. Bạn không nên dựa vào bất cứ điều gì trong những thông tin này để đưa bất kì
+                quyết định đầu tư nào của mình. Không có bất kỳ bảo đảm hoặc tuyên bố dưới bất kỳ hình thức nào, dù là
+                rõ
+                ràng, ngụ ý hay theo luật định, bao gồm nhưng không giới hạn sự bảo đảm hoặc tuyên bố về khả năng thương
+                mại, tính phù hợp cho một mục đích cụ thể nào, sự không vi phạm và quyền sở hữu, được đưa ra bởi Kaizen
+                đối với bất kỳ thông tin nào trên các trang này và bất kỳ bảo đảm hoặc tuyên bố nào như vậy theo đây sẽ
+                được loại trừ rõ ràng. Kaizen cũng không bảo đảm rằng trang web này và các trang thuộc trang web này
+                hoặc
+                máy chủ nơi chứa đựng các trang này không có virus máy tính hoặc các mã, chương trình, ngôn ngữ lập
+                trình
+                độc hại hoặc phá hoại hoặc các yếu tố tương tự. Kaizen cũng không bảo đảm cho các vấn đề về truy cập
+                nhanh
+                chóp, an toàn, hoàn chỉnh, không có lỗi hoặc không bị gián đoạn trong khi truy cập vào tất cả các nội
+                dung
+                trên trang Web này.</p>
 
               <h4>3. LOẠI TRỪ TRÁCH NHIỆM</h4>
-              <p>Người sử dụng sẽ phải chịu mọi rủi ro liên quan đến việc truy cập và/hoặc sử dụng bất kỳ thông tin nào có
-              trong trang Web này. Phụ thuộc vào quy định của pháp luật hiện hành, không trong bất kì trường hợp nào
-              Kaizen hoặc bất kỳ Kaizen con, Kaizen liên kết, đối tác tiếp thị, nhà cung cấp, cán bộ hoặc nhân viên của
-              Kaizen sẽ phải chịu trách nhiệm về bất kỳ tổn thất, thiệt hại, chi phí, phí tổn nào (bất kể là trực tiếp,
-              gián tiếp, trừng phạt, làm gương, hậu quả, ngẫu nhiên, đặc biệt hoặc kinh tế bao gồm các tổn thất lợi
-              nhuận) dù là do một hành động trong hợp đồng, sơ suất hoặc vi phạm ngoài hợp đồng phát sinh từ hoặc liên
-              quan đến: việc truy cập hoặc sử dụng, không có khả năng truy cập hoặc sử dụng, hoặc truy cập chưa hoàn
-              thành, bị trì hoãn hoặc bị gián đoạn tới trang Web này hoặc bất kỳ trang web nào có liên kết với trang Web
-              này; sự tin cậy vào thông tin trên trang web này hoặc trên bất kỳ trang web nào khác liên kết với trang
-              Web này; sự thất bại trong quá trình vận hành, sai sót, thiếu sót hoặc khiếm khuyết của bất kỳ hệ thống
-              mạng, đường dây hoặc hệ thống máy chủ nào hoặc việc truyền tải tới bất kỳ phần cứng hoặc phần mềm máy tính
-              nào được dùng để truy cập trang Web này do sự ảnh hưởng của bất kỳ vi-rút máy tính nào hoặc các mã, chương
-              trình, ngôn ngữ lập trình độc hại hoặc phá hoại khác hoặc bất kỳ yếu tố nào khác; hoặc việc truy cập bởi
-              bất kỳ người không có thẩm quyền nào đối với bất kỳ thông tin nào được chuyển từ bạn đến Kaizen hoặc ngược
-              lại thông qua trang web này. Điều khoản Loại trừ trách nhiệm này sẽ có hiệu lực trong phạm vi tối đa được
-              pháp luật cho phép. Toàn bộ nghĩa vụ pháp lý (nếu có) của Kaizen về mọi thiệt hại, tổn thất, chi phí và
-              phí tổn do bất kỳ nguyên nhân gì gây ra, dù là trong hợp đồng, ngoài hợp đồng hoặc các nguyên do khác sẽ
-              không vượt quá số tiền bạn đã trả để truy cập vào trang Web này.</p>
+              <p>Người sử dụng sẽ phải chịu mọi rủi ro liên quan đến việc truy cập và/hoặc sử dụng bất kỳ thông tin nào
+                có
+                trong trang Web này. Phụ thuộc vào quy định của pháp luật hiện hành, không trong bất kì trường hợp nào
+                Kaizen hoặc bất kỳ Kaizen con, Kaizen liên kết, đối tác tiếp thị, nhà cung cấp, cán bộ hoặc nhân viên
+                của
+                Kaizen sẽ phải chịu trách nhiệm về bất kỳ tổn thất, thiệt hại, chi phí, phí tổn nào (bất kể là trực
+                tiếp,
+                gián tiếp, trừng phạt, làm gương, hậu quả, ngẫu nhiên, đặc biệt hoặc kinh tế bao gồm các tổn thất lợi
+                nhuận) dù là do một hành động trong hợp đồng, sơ suất hoặc vi phạm ngoài hợp đồng phát sinh từ hoặc liên
+                quan đến: việc truy cập hoặc sử dụng, không có khả năng truy cập hoặc sử dụng, hoặc truy cập chưa hoàn
+                thành, bị trì hoãn hoặc bị gián đoạn tới trang Web này hoặc bất kỳ trang web nào có liên kết với trang
+                Web
+                này; sự tin cậy vào thông tin trên trang web này hoặc trên bất kỳ trang web nào khác liên kết với trang
+                Web này; sự thất bại trong quá trình vận hành, sai sót, thiếu sót hoặc khiếm khuyết của bất kỳ hệ thống
+                mạng, đường dây hoặc hệ thống máy chủ nào hoặc việc truyền tải tới bất kỳ phần cứng hoặc phần mềm máy
+                tính
+                nào được dùng để truy cập trang Web này do sự ảnh hưởng của bất kỳ vi-rút máy tính nào hoặc các mã,
+                chương
+                trình, ngôn ngữ lập trình độc hại hoặc phá hoại khác hoặc bất kỳ yếu tố nào khác; hoặc việc truy cập bởi
+                bất kỳ người không có thẩm quyền nào đối với bất kỳ thông tin nào được chuyển từ bạn đến Kaizen hoặc
+                ngược
+                lại thông qua trang web này. Điều khoản Loại trừ trách nhiệm này sẽ có hiệu lực trong phạm vi tối đa
+                được
+                pháp luật cho phép. Toàn bộ nghĩa vụ pháp lý (nếu có) của Kaizen về mọi thiệt hại, tổn thất, chi phí và
+                phí tổn do bất kỳ nguyên nhân gì gây ra, dù là trong hợp đồng, ngoài hợp đồng hoặc các nguyên do khác sẽ
+                không vượt quá số tiền bạn đã trả để truy cập vào trang Web này.</p>
 
-              <p>Bất kỳ ấn phẩm nào của Kaizen có thể bao gồm các sai sót về kỹ thuật hoặc lỗi đánh máy. Những sửa đổi có
-              thể được thực hiện đối với các ấn phẩm này tùy từng thời điểm và được kết hợp chặt chẽ với những phiên bản
-              mới của những ấn phẩm này. Bất cứ khi nào và không cần thông báo, các ấn phẩm này phụ thuộc vào sự cải
-              tiến và thay đổi về dịch vụ cung cấp bởi Kaizen.</p>
+              <p>Bất kỳ ấn phẩm nào của Kaizen có thể bao gồm các sai sót về kỹ thuật hoặc lỗi đánh máy. Những sửa đổi
+                có
+                thể được thực hiện đối với các ấn phẩm này tùy từng thời điểm và được kết hợp chặt chẽ với những phiên
+                bản
+                mới của những ấn phẩm này. Bất cứ khi nào và không cần thông báo, các ấn phẩm này phụ thuộc vào sự cải
+                tiến và thay đổi về dịch vụ cung cấp bởi Kaizen.</p>
 
               <h4>4. BỒI THƯỜNG</h4>
-              <p>Bạn đồng ý bồi thường và giữ cho Kaizen và các cán bộ, đại lý, đối tác và nhân viên của họ không bị thiệt
-              hại bởi mọi khiếu nại, yêu cầu, kiện cáo, tố tụng, trách nhiệm pháp lý (kể cả trách nhiệm pháp lý đối với
-              các bên thứ ba), khoản phạt và chi phí (bao gồm nhưng không giới hạn ở chi phí pháp lý trên cơ sở bồi
-              thường toàn bộ), các khoản tiền thưởng, tổn thất và/hoặc phí tổn do hoặc phát sinh từ: việc sử dụng trang
-              Web này; việc kết nối của bạn với trang Web này; sự vi phạm của bạn đối với bất kỳ Điều khoản và Điều kiện
-              nào; sự vi phạm của bạn đối với bất kỳ quyền của cá nhân hoặc tổ chức nào khác; hoặc sự vi phạm của bạn
-              đối với bất cứ yêu cầu, nghĩa vụ luật định hay quy định pháp luật nào.</p>
+              <p>Bạn đồng ý bồi thường và giữ cho Kaizen và các cán bộ, đại lý, đối tác và nhân viên của họ không bị
+                thiệt
+                hại bởi mọi khiếu nại, yêu cầu, kiện cáo, tố tụng, trách nhiệm pháp lý (kể cả trách nhiệm pháp lý đối
+                với
+                các bên thứ ba), khoản phạt và chi phí (bao gồm nhưng không giới hạn ở chi phí pháp lý trên cơ sở bồi
+                thường toàn bộ), các khoản tiền thưởng, tổn thất và/hoặc phí tổn do hoặc phát sinh từ: việc sử dụng
+                trang
+                Web này; việc kết nối của bạn với trang Web này; sự vi phạm của bạn đối với bất kỳ Điều khoản và Điều
+                kiện
+                nào; sự vi phạm của bạn đối với bất kỳ quyền của cá nhân hoặc tổ chức nào khác; hoặc sự vi phạm của bạn
+                đối với bất cứ yêu cầu, nghĩa vụ luật định hay quy định pháp luật nào.</p>
 
               <h4>5. CÁC LIÊN KẾT ĐẾN TRANG WEB CỦA BÊN THỨ BA</h4>
               <p>Trang web này có thể chứa các liên kết đến các trang web khác không thuộc sự kiểm soát và duy trì bởi
-              Kaizen, và các nội dung, ý kiến và các liên kết khác được cung cấp bởi các trang web này không được kiểm
-              tra, xác nhận hoặc giám sát bởi Kaizen. Tương tự, các trang web khác có thể chứa liên kết đến trang Web
-              này và Kaizen sẽ không chịu trách nhiệm về nội dung, ý kiến hoặc các liên kết khác trong các trang web
-              liên kết đó hoặc bất kỳ thay đổi hay cập nhật nào của nó. Các liên kết này được cung cấp chỉ như một tiện
-              ích, và việc đưa vào bất kỳ liên kết nào như vậy không phải là sự xác thực của Kaizen về trang web hoặc
-              các nội dung trong đó, và bạn được thông báo rằng bất kỳ sự truy cập nào của bạn tới các trang web liên
-              kết như vậy sẽ là rủi ro của riêng bạn. Bất kỳ bên thứ ba nào muốn thiết lập liên kết đến trang Web này
-              phải thông báo trước cho Kaizen về ý định thực hiện của họ. Kaizen có thể từ chối bất kỳ liên kết nào đến
-              trang Web này. Tuy nhiên, nếu Kaizen cho phép bất kỳ liên kết nào như vậy, Kaizen cũng không có nghĩa vụ
-              phải thiết lập liên kết đối ứng với bên thứ ba.</p>
+                Kaizen, và các nội dung, ý kiến và các liên kết khác được cung cấp bởi các trang web này không được kiểm
+                tra, xác nhận hoặc giám sát bởi Kaizen. Tương tự, các trang web khác có thể chứa liên kết đến trang Web
+                này và Kaizen sẽ không chịu trách nhiệm về nội dung, ý kiến hoặc các liên kết khác trong các trang web
+                liên kết đó hoặc bất kỳ thay đổi hay cập nhật nào của nó. Các liên kết này được cung cấp chỉ như một
+                tiện
+                ích, và việc đưa vào bất kỳ liên kết nào như vậy không phải là sự xác thực của Kaizen về trang web hoặc
+                các nội dung trong đó, và bạn được thông báo rằng bất kỳ sự truy cập nào của bạn tới các trang web liên
+                kết như vậy sẽ là rủi ro của riêng bạn. Bất kỳ bên thứ ba nào muốn thiết lập liên kết đến trang Web này
+                phải thông báo trước cho Kaizen về ý định thực hiện của họ. Kaizen có thể từ chối bất kỳ liên kết nào
+                đến
+                trang Web này. Tuy nhiên, nếu Kaizen cho phép bất kỳ liên kết nào như vậy, Kaizen cũng không có nghĩa vụ
+                phải thiết lập liên kết đối ứng với bên thứ ba.</p>
 
               <h4>6. CUNG CẤP THÔNG TIN</h4>
-              <p>Mọi thông tin cung cấp cho Kaizen qua trang Web này sẽ được coi là tài sản của Kaizen, theo đó Kaizen được
-              toàn quyền sử dụng, cho bất kỳ mục đích nào, đối với bất kỳ ý tưởng, khái niệm, bí mật kinh doanh hay kỹ
-              thuật nào được chứa đựng trong thông tin mà khách truy cập vào trang Web này cung cấp cho Kaizen. Kaizen
-              không phải tuân theo các nghĩa vụ bảo mật hoặc quy định riêng tư đối với thông tin đã được cung cấp, trừ
-              trường hợp được đồng ý bởi Kaizen là có mối quan hệ khách hàng trực tiếp hoặc hình thức khác có sự đồng ý
-              hoặc yêu cầu cụ thể của pháp luật.</p>
+              <p>Mọi thông tin cung cấp cho Kaizen qua trang Web này sẽ được coi là tài sản của Kaizen, theo đó Kaizen
+                được
+                toàn quyền sử dụng, cho bất kỳ mục đích nào, đối với bất kỳ ý tưởng, khái niệm, bí mật kinh doanh hay kỹ
+                thuật nào được chứa đựng trong thông tin mà khách truy cập vào trang Web này cung cấp cho Kaizen. Kaizen
+                không phải tuân theo các nghĩa vụ bảo mật hoặc quy định riêng tư đối với thông tin đã được cung cấp, trừ
+                trường hợp được đồng ý bởi Kaizen là có mối quan hệ khách hàng trực tiếp hoặc hình thức khác có sự đồng
+                ý
+                hoặc yêu cầu cụ thể của pháp luật.</p>
 
               <h4>7.ĐỐI VỚI NGƯỜI VỊ THÀNH NIÊN</h4>
-              <p>Khi sử dụng trang Web này, Kaizen hiểu rằng bạn đã xác nhận mình trên 18 tuổi hoặc có sự cho phép của bố
-              mẹ hay người giám hộ hợp pháp thay mặt bạn đồng ý với các Điều khoản này. Nếu bạn là bố mẹ hoặc người giám
-              hộ của trẻ dưới 18 tuổi, vui lòng giám sát việc con hoặc người được giám hộ sử dụng trang Web này. Cha mẹ
-              hoặc người giám hộ hợp pháp có trách nhiệm xác định phần nào của trang Web này hoặc các trang Web của bên
-              thứ ba được liên kết với trang Web này là phù hợp. Bạn cũng đồng ý thanh toán đầy đủ các khoản tiền liên
-              quan đến các đơn đặt hàng hoặc giao dịch (nếu có) được đặt bởi con cái hoặc người được giám hộ, và đảm bảo
-              con cái hoặc người được giám hộ tuân thủ theo Điều khoản & điều khoản này.</p>
+              <p>Khi sử dụng trang Web này, Kaizen hiểu rằng bạn đã xác nhận mình trên 18 tuổi hoặc có sự cho phép của
+                bố
+                mẹ hay người giám hộ hợp pháp thay mặt bạn đồng ý với các Điều khoản này. Nếu bạn là bố mẹ hoặc người
+                giám
+                hộ của trẻ dưới 18 tuổi, vui lòng giám sát việc con hoặc người được giám hộ sử dụng trang Web này. Cha
+                mẹ
+                hoặc người giám hộ hợp pháp có trách nhiệm xác định phần nào của trang Web này hoặc các trang Web của
+                bên
+                thứ ba được liên kết với trang Web này là phù hợp. Bạn cũng đồng ý thanh toán đầy đủ các khoản tiền liên
+                quan đến các đơn đặt hàng hoặc giao dịch (nếu có) được đặt bởi con cái hoặc người được giám hộ, và đảm
+                bảo
+                con cái hoặc người được giám hộ tuân thủ theo Điều khoản & điều khoản này.</p>
 
               <h4>8.LUẬT ĐIỀU CHỈNH & QUYỀN TÀI PHÁN</h4>
-              <p>Bằng cách truy cập trang Web này và có được các thông tin về tiện ích, sản phẩm hoặc dịch vụ từ trang Web,
-              bạn đồng ý rằng luật pháp Việt Nam sẽ điều chỉnh việc truy cập và cung cấp những thông tin về tiện ích,
-              sản phẩm, dịch vụ hoặc nội dung này. Bạn đồng ý Kaizen có quyền ghi nhận các thông tin liên quan đến việc
-              trao đổi, hướng dẫn thực hiện, thực hiện, xử lý thông tin trên trang Web này hoặc bất kỳ bên nào và sẽ lưu
-              trữ thông tin này dưới dạng tập tin điện tử hoặc bản in. Đây sẽ là bằng chứng rằng buộc và là chứng cứ kết
-              luận cho các thông tin trao đổi và hướng dẫn đó. Bạn đồng ý rằng các thông tin này có thể chuyển giao như
-              một bằng chứng mà không xảy tranh chấp về tính hợp pháp, độ tin cậy, tính chính xác trên cơ sở các thông
-              tin được ghi nhận như tập tin điện tử hoặc được trích xuất từ hệ thống máy tính.</p>
+              <p>Bằng cách truy cập trang Web này và có được các thông tin về tiện ích, sản phẩm hoặc dịch vụ từ trang
+                Web,
+                bạn đồng ý rằng luật pháp Việt Nam sẽ điều chỉnh việc truy cập và cung cấp những thông tin về tiện ích,
+                sản phẩm, dịch vụ hoặc nội dung này. Bạn đồng ý Kaizen có quyền ghi nhận các thông tin liên quan đến
+                việc
+                trao đổi, hướng dẫn thực hiện, thực hiện, xử lý thông tin trên trang Web này hoặc bất kỳ bên nào và sẽ
+                lưu
+                trữ thông tin này dưới dạng tập tin điện tử hoặc bản in. Đây sẽ là bằng chứng rằng buộc và là chứng cứ
+                kết
+                luận cho các thông tin trao đổi và hướng dẫn đó. Bạn đồng ý rằng các thông tin này có thể chuyển giao
+                như
+                một bằng chứng mà không xảy tranh chấp về tính hợp pháp, độ tin cậy, tính chính xác trên cơ sở các thông
+                tin được ghi nhận như tập tin điện tử hoặc được trích xuất từ hệ thống máy tính.</p>
 
               <h4>9. VIỆC SỬA ĐỔI ĐIỀU KIỆN & ĐIỀU KHOẢN</h4>
               <p>Kaizen có quyền áp dụng và sửa đổi các Điều kiện & điều khoản vào bất cứ lúc nào bằng cách cập nhật các
-              sửa đổi này lên trang Web, mà bạn đồng ý rằng sẽ có đầy đủ thông tin về việc thay đổi này. Nếu bạn không
-              đồng ý bị ràng buộc bởi bất kỳ sự thay đổi nào, bạn phải ngưng mọi truy cập và/hoặc sử dụng trang Web
-              này. Bạn cũng đồng ý rằng nếu bạn tiếp tục sử dụng và/hoặc truy cập trang Web này sau khi được thông báo
-              về việc sửa đổi Điều kiện & điều khoản, việc sử dụng và/hoặc truy cập được xem như là sự đồng ý và chấp
-              thuận của bạn đối với Điều kiện & điều khoản mới và bạn cần phải tuân thủ theo các Điều kiện & điều khoản
-              mới này.</p>
+                sửa đổi này lên trang Web, mà bạn đồng ý rằng sẽ có đầy đủ thông tin về việc thay đổi này. Nếu bạn không
+                đồng ý bị ràng buộc bởi bất kỳ sự thay đổi nào, bạn phải ngưng mọi truy cập và/hoặc sử dụng trang Web
+                này. Bạn cũng đồng ý rằng nếu bạn tiếp tục sử dụng và/hoặc truy cập trang Web này sau khi được thông báo
+                về việc sửa đổi Điều kiện & điều khoản, việc sử dụng và/hoặc truy cập được xem như là sự đồng ý và chấp
+                thuận của bạn đối với Điều kiện & điều khoản mới và bạn cần phải tuân thủ theo các Điều kiện & điều
+                khoản
+                mới này.</p>
 
               <h4>10. TẤT CẢ CÁC QUYỀN ĐƯỢC BẢO LƯU.</h4>
-              <p>Quyền tác giả đối với các nội dung của các trang này, các thông tin trong đó và sự sắp xếp của chúng đều
-              thuộc sở hữu của Kaizen trừ khi có chỉ định khác.
-              Không được gắn liên kết ẩn của trang Web này tới bất kỳ trang web nào khác, hoặc sao chép bất kỳ thông tin
-              nào trên trang Web này và dùng cho bất kỳ trang web nào khác hoặc sử dụng bất kỳ thông tin nào ở đây cho
-              bất kỳ mục đích công cộng hoặc thương mại nào mà không có sự đồng ý trước bằng văn bản của Kaizen, Kaizen
-              có thể được chấp thuận hoặc từ chối tùy theo quyền quyết định riêng và có thể phải tuân theo các điều
-              khoản và điều kiện do Kaizen đặt ra. Vui lòng xem thêm quy định về CHÍNH SÁCH BẢO MẬT THÔNG TIN của Kaizen
-              về thông tin bạn cung cấp khi sử dụng trang Web này.</p>
+              <p>Quyền tác giả đối với các nội dung của các trang này, các thông tin trong đó và sự sắp xếp của chúng
+                đều
+                thuộc sở hữu của Kaizen trừ khi có chỉ định khác.
+                Không được gắn liên kết ẩn của trang Web này tới bất kỳ trang web nào khác, hoặc sao chép bất kỳ thông
+                tin
+                nào trên trang Web này và dùng cho bất kỳ trang web nào khác hoặc sử dụng bất kỳ thông tin nào ở đây cho
+                bất kỳ mục đích công cộng hoặc thương mại nào mà không có sự đồng ý trước bằng văn bản của Kaizen,
+                Kaizen
+                có thể được chấp thuận hoặc từ chối tùy theo quyền quyết định riêng và có thể phải tuân theo các điều
+                khoản và điều kiện do Kaizen đặt ra. Vui lòng xem thêm quy định về CHÍNH SÁCH BẢO MẬT THÔNG TIN của
+                Kaizen
+                về thông tin bạn cung cấp khi sử dụng trang Web này.</p>
 
             </div>
           </div>
@@ -1083,3 +943,8 @@
 </script>
 
 </html>
+
+
+
+
+
