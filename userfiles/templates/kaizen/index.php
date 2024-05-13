@@ -3,8 +3,8 @@
 <body class="edit" rel="content" field="content">
   <div class="kaizen-wraper">
     <module type="pictures" template="default" />
-    <module type="layouts" template="kz-title" />
-    <module type="layouts" template="kz-shape-title" />
+    <module type="layouts/kaizen" template="kz-title" />
+    <module type="layouts/kaizen" template="kz-shape-title" />
 
     <div class="kz-form" id="scroll-form">
       <h3 class="form-headline">
@@ -34,13 +34,13 @@
 
       </div>
     </div>
-    <module type="layouts" template="kz-product-info" />
+    <module type="layouts/kaizen" template="kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
     </div>
-    <module type="layouts" template="kz-product-info" />
+    <module type="layouts/kaizen" template="kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
@@ -526,7 +526,8 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-van-chuyen">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content"
+              field="content-chinh-sach-van-chuyen">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH VẬN CHUYỂN</h3>
               </div>
@@ -579,7 +580,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-bao-hanh">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content" field="content-chinh-sach-bao-hanh">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH BẢO HÀNH</h3>
               </div>
@@ -597,7 +598,7 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-ban-hang">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content" field="content-chinh-sach-ban-hang">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH BÁN HÀNG</h3>
               </div>
@@ -615,7 +616,8 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-thanh-toan">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content"
+              field="content-chinh-sach-thanh-toan">
               <div class="cs-content-title">
                 <h3>CHÍNH SÁCH THANH TOÁN</h3>
               </div>
@@ -637,7 +639,8 @@
           <!-- Modal content -->
           <div class="modal-content">
             <span class="close">&times;</span>
-            <div class="cs-content edit" style="padding-bottom:120px"  rel="content" field="content-chinh-sach-va-dieu-kien">
+            <div class="cs-content edit" style="padding-bottom:120px" rel="content"
+              field="content-chinh-sach-va-dieu-kien">
               <div class="cs-content-title">
                 <h3>ĐIỀU KHOẢN VÀ ĐIỀU KIỆN</h3>
               </div>
@@ -943,8 +946,3 @@
 </script>
 
 </html>
-
-
-
-
-
