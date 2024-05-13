@@ -3,8 +3,8 @@
 <body class="edit" rel="content" field="content">
   <div class="kaizen-wraper">
     <module type="pictures" template="default" />
-    <module type="layouts/kaizen" template="kz-title" />
-    <module type="layouts/kaizen" template="kz-shape-title" />
+    <module type="layouts" template="kaizen/kz-title" />
+    <module type="layouts" template="kaizen/kz-shape-title" />
 
     <div class="kz-form" id="scroll-form">
       <h3 class="form-headline">
@@ -34,13 +34,13 @@
 
       </div>
     </div>
-    <module type="layouts/kaizen" template="kz-product-info" />
+    <module type="layouts" template="kaizen/kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
     </div>
-    <module type="layouts/kaizen" template="kz-product-info" />
+    <module type="layouts" template="kaizen/kz-product-info" />
     <div class="list-image">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
       <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
