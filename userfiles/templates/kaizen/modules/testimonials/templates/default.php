@@ -19,8 +19,8 @@ description: Testimonials Default
         <div class="point titile-blue pr-10 edit" field="kz-testi-point1-<?php print $params['id'] ?>" rel="module">4.8/5</div>
         <img class="pr-10"
           src="https://w.ladicdn.com/s400x350/5c7362c6c417ab07e5196b05/sao-star-20231010094822-vteoa.png" alt="">
-        <div class="point edit" field="kz-testi-point2-<?php print $params['id'] ?>" rel="module">4.8/5>(15.5k) | Đã bán </div>
-        <div class="pl-5 point titile-blue edit" field="kz-testi-point3-<?php print $params['id'] ?>" rel="module">4.8/5>145k</div>
+        <div class="point edit" field="kz-testi-point2-<?php print $params['id'] ?>" rel="module">(15.5k) | Đã bán </div>
+        <div class="pl-5 point titile-blue edit" field="kz-testi-point3-<?php print $params['id'] ?>" rel="module">145k</div>
       </div>
       <div class="list-testimonial">
         <?php if (isset($data)): ?>
