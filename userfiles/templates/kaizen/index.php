@@ -11,7 +11,6 @@
 */
 ?>
 <?php include THIS_TEMPLATE_DIR . "header.php"; ?>
-
 <body>
   <div class="kaizen-wraper edit allow-drop safe-element" rel="sub-content" field="content">
     <module type="pictures" template="default" />
@@ -25,25 +24,6 @@
       <div class="kz-container">
         <div class="kz-form">
           <module type="layouts" template="kaizen/kz-shape-title" />
-
-          <form action="" autocomplete="off">
-            <div class="kaizen-form-item">
-              <input type="text" placeholder="Họ và tên " />
-            </div>
-            <div class="kaizen-form-item">
-              <input type="text" placeholder="Số điện thoại" />
-            </div>
-            <div class="kaizen-form-item">
-              <input type="text" placeholder="Địa chỉ" />
-            </div>
-            <div class="kaizen-animation">
-              <div class="kaizen-button kaizen-transition">
-                <div class="kaizen-button-headline">
-                  <p class="kaizen-form-headline">Mua ngay</p>
-                </div>
-              </div>
-            </div>
-          </form>
         </div>
       </div>
     </div>
