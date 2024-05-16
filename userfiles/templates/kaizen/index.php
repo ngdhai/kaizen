@@ -23,7 +23,7 @@
       </h3>
       <div class="kz-container">
         <div class="kz-form">
-          <module type="layouts" template="kaizen/kz-shape-title" />
+          <module type="contact_form" template="default" />
         </div>
       </div>
     </div>
