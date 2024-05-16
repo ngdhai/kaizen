@@ -434,5 +434,5 @@
     }
   }
 </script>
-
+<?php include THIS_TEMPLATE_DIR . "footer.php"; ?>
 </html>
