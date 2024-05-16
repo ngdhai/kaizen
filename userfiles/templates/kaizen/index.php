@@ -1,3 +1,15 @@
+<?php
+
+/*
+
+  type: layout
+  content_type: static
+  name: Home
+  position: 11
+  description: Home layout
+
+*/
+?>
 <?php include THIS_TEMPLATE_DIR . "header.php"; ?>
 
 <body>
