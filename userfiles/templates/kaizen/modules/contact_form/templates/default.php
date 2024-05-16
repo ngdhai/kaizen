@@ -22,7 +22,7 @@
 
         <div class="row">
             <div class="col-12">
-                <module type="custom_fields" default-fields="Your Name[type=text,field_size=6,show_placeholder=true], E-mail Address[type=email,field_size=6,show_placeholder=true], Phone[type=phone,field_size=6,show_placeholder=true], Company[type=text,field_size=6,show_placeholder=true], Message[type=textarea,field_size=12,show_placeholder=true]" input_class="form-control"/>
+                <module type="custom_fields" default-fields="Họ và tên[type=text,field_size=12,show_placeholder=true], E-mail[type=email,field_size=12,show_placeholder=true], Số điện thoại[type=phone,field_size=12,show_placeholder=true], Địa chỉ[type=textarea,field_size=12,show_placeholder=true]" input_class="form-control"/>
             </div>
             <?php
            // dd($require_terms);
@@ -35,13 +35,17 @@
         </div>
 
         <div class="row">
-            <div class="col-12 col-md-6 text-start text-left">
-                <?php if (get_option('disable_captcha', $params['id']) != 'y'): ?>
+            <!-- <div class="col-12 col-md-6 text-start text-left">
+                <?php // if (get_option('disable_captcha', $params['id']) != 'y'): ?>
                     <module type="captcha"/>
-                <?php endif; ?>
-            </div>
-            <div class="col-12 col-md-6 text-end text-right">
-                <module type="btn" template="bootstrap" button_action="submit" button_style="btn-primary" text="Send message"/>
+                <?php // endif; ?>
+            </div> -->
+            <div class="kaizen-animation">
+              <div class="kaizen-button kaizen-transition">
+                <div class="kaizen-button-headline">
+                    <module type="btn" button_action="submit" text="Đặt hàng ngay"/>
+                </div>
+              </div>
             </div>
         </div>
     </form>

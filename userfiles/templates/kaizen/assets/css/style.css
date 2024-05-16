@@ -460,3 +460,25 @@ color: rgb(255, 255, 255);
 .cs-content-title{
   text-align: center;
 }
+/* Type input */
+.custom-radio{
+  padding-left: 20px;
+}
+.custom-radio label {
+  color: rgb(255, 255, 255);
+  margin-top: 0px !important;
+}
+.kaizen-button-headline input[type="submit"] {
+  border-width: 1px !important;
+    border-radius: 6px !important;
+    border-style: solid !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+}
+
+.control-label{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+  color: rgb(255, 255, 255);
+  text-align: left;
+}

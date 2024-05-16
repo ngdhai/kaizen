@@ -24,6 +24,8 @@
       </h3>
       <div class="kz-container">
         <div class="kz-form">
+          <module type="layouts" template="kaizen/kz-shape-title" />
+
           <form action="" autocomplete="off">
             <div class="kaizen-form-item">
               <input type="text" placeholder="Họ và tên " />
