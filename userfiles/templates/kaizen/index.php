@@ -28,17 +28,7 @@
       </div>
     </div>
     <module type="layouts" template="kaizen/kz-product-info" />
-    <div class="list-image edit" rel="image-content-1" field="content">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-    </div>
     <module type="layouts" template="kaizen/kz-product-info" />
-    <div class="list-image edit" rel="image-content-2" field="content">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-      <img src="https://w.ladicdn.com/s750x800/5c7362c6c417ab07e5196b05/anh-2-20231115032210-x6opb.jpg" alt="">
-    </div>
     <module type="testimonials" template="default" />
     <div class="footer">
       <div class="logo edit" rel="content" field="logo-footer">
