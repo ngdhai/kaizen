@@ -484,3 +484,8 @@ color: rgb(255, 255, 255);
   color: rgb(255, 255, 255);
   text-align: left;
 }
+.footer .kaizen-animation{
+  position: fixed;
+  bottom: 10px;
+  left: 85px;
+}
