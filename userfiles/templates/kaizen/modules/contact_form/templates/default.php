@@ -15,7 +15,7 @@
         <div class="modal-content">
             <div class="modal-body">
                 <div class="justify-content-center text-center bold text-success fs-4 fw-bold py-2"><span>ĐẶT HÀNG THÀNH CÔNG!</span></div>
-                <div class="justify-content-center text-center fs-6 py-2"><span>Chúng tôi sẽ liên hệ Quý khách để xác nhận đơn hàng trong thời gian sớm nhất</span></div>
+                <div class="justify-content-center text-center fs-6 py-6"><span>Cảm ơn quý khách đã đặt hàng thành công. <br>Chúng tôi sẽ liên hệ lại để xác nhận đơn hàng qua số điện thoại <span class="fw-bold">0392 038 028</span></span></div>
                 <div class="justify-content-center text-center pt-4">
                     <button type="button" class="btn btn-success" data-bs-dismiss="modal">OK</button>
                 </div>
