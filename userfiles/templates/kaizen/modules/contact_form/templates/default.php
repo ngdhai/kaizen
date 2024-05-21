@@ -10,7 +10,7 @@
  */
 ?>
 
-<div class="modal fade show" style="display:block;" id="msg<?php print $form_id; ?>" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade show" style="display:none;" id="msg<?php print $form_id; ?>" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-body">
