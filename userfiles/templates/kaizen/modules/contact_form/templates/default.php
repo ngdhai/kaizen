@@ -10,11 +10,19 @@
  */
 ?>
 
-<div class="alert alert-success margin-bottom-30" id="msg<?php print $form_id; ?>" style="display:none;">
-    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-    <strong><?php _lang("Thank You", "templates/new-world"); ?>!</strong> <?php _lang("Your message successfully sent", "templates/new-world"); ?>!
+<div class="modal fade show" style="display:block;" id="msg<?php print $form_id; ?>" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="justify-content-center text-center bold text-success fs-4 fw-bold py-2"><span>ĐẶT HÀNG THÀNH CÔNG!</span></div>
+                <div class="justify-content-center text-center fs-6 py-2"><span>Chúng tôi sẽ liên hệ Quý khách để xác nhận đơn hàng trong thời gian sớm nhất</span></div>
+                <div class="justify-content-center text-center pt-4">
+                    <button type="button" class="btn btn-success" data-bs-dismiss="modal">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
 
 <div class="form">
     <form id="contactform" data-form-id="<?php print $form_id ?>" name="<?php print $form_id ?>" method="post">
@@ -22,30 +30,22 @@
 
         <div class="row">
             <div class="col-12">
-                <module type="custom_fields" default-fields="Họ và tên[type=text,field_size=12,show_placeholder=true], E-mail[type=email,field_size=12,show_placeholder=true], Số điện thoại[type=phone,field_size=12,show_placeholder=true], Địa chỉ[type=textarea,field_size=12,show_placeholder=true]" input_class="form-control"/>
+                <module type="custom_fields" default-fields="Họ và tên[type=text,field_size=12,show_placeholder=true], E-mail[type=email,field_size=12,show_placeholder=true], Số điện thoại[type=phone,field_size=12,show_placeholder=true], Địa chỉ[type=textarea,field_size=12,show_placeholder=true]" input_class="form-control" />
             </div>
-            <?php
-           // dd($require_terms);
-            ?>
             <div class="col-12">
-                <?php if ($require_terms && $require_terms_when == 'b'): ?>
+                <?php if ($require_terms && $require_terms_when == 'b') : ?>
                     <module type="users/terms" data-for="contact_form_default" />
                 <?php endif; ?>
             </div>
         </div>
 
         <div class="row">
-            <!-- <div class="col-12 col-md-6 text-start text-left">
-                <?php // if (get_option('disable_captcha', $params['id']) != 'y'): ?>
-                    <module type="captcha"/>
-                <?php // endif; ?>
-            </div> -->
             <div class="kaizen-animation">
-              <div class="kaizen-button kaizen-transition">
-                <div class="kaizen-button-headline">
-                    <module type="btn" button_action="submit" text="Đặt hàng ngay"/>
+                <div class="kaizen-button kaizen-transition">
+                    <div class="kaizen-button-headline">
+                        <module type="btn" button_action="submit" text="Đặt hàng ngay" />
+                    </div>
                 </div>
-              </div>
             </div>
         </div>
     </form>

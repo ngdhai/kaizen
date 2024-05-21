@@ -66,7 +66,7 @@ if(typeof  processContactForm !== 'object'){
                 if(spinner) {
                   spinner.remove()
               }
-          }, 3200);
+          }, 1000);
 
 
 
