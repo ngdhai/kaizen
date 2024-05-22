@@ -62,7 +62,11 @@ if(typeof  processContactForm !== 'object'){
 			  if(cap !== null){
 			    mw.tools.refresh_image(cap);
 			  }
-			  mw.$(selector).show();
+              var myModal = new bootstrap.Modal(mw.$(selector), {
+                keyboard: false
+              })
+              myModal.show();
+			//   mw.$(selector).show();
                 if(spinner) {
                   spinner.remove()
               }
