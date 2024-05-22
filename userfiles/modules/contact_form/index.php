@@ -62,11 +62,7 @@ if(typeof  processContactForm !== 'object'){
 			  if(cap !== null){
 			    mw.tools.refresh_image(cap);
 			  }
-              var myModal = new bootstrap.Modal(mw.$(selector), {
-                keyboard: false
-              })
-              myModal.show()
-			//   mw.$(selector).show();
+			  mw.$(selector).show();
                 if(spinner) {
                   spinner.remove()
               }
@@ -134,11 +130,11 @@ $(document).ready(function(){
             mw.$('input[type="submit"]','form[data-form-id="<?php print $form_id ?>"]').removeAttr('disabled');
             return false;
         });
-	$('body').click(function(){
-	   if( $('#msg<?php print $form_id; ?>').is(":visible") ) {
-		  $('#msg<?php print $form_id; ?>').hide();
-	   }
-	});
+	// $('body').click(function(){
+	//    if( $('#msg<?php //print $form_id; ?>').is(":visible") ) {
+	// 	  $('#msg<?php //print $form_id; ?>').hide();
+	//    }
+	// });
 	mw.element('[data-custom-field-error-text][required]').each(function (){
         this.setCustomValidity(this.value ? '' : this.getAttribute('data-custom-field-error-text'))
         mw.element(this).on('input', function (e) {
